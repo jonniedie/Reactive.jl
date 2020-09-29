@@ -1,8 +1,10 @@
 # Reactive
 
-[![Build Status](https://travis-ci.org/JuliaGizmos/Reactive.jl.svg?branch=master)](https://travis-ci.org/JuliaGizmos/Reactive.jl)
-[![Reactive](http://pkg.julialang.org/badges/Reactive_0.3.svg)](http://pkg.julialang.org/?pkg=Reactive&ver=0.3)
-[![Reactive](http://pkg.julialang.org/badges/Reactive_0.4.svg)](http://pkg.julialang.org/?pkg=Reactive&ver=0.4)
+[![Build Status](https://travis-ci.org/JuliaGizmos/Reactive.jl.svg?branch=master)](https://travis-ci.org/jonniedie/Reactive.jl)
+
+
+This is a fork of [Reactive.jl](https://github.com/JuliaGizmos/Reactive.jl) for testing allocation-free reactive programming.
+
 
 Reactive.jl is a package for reactive programming in Julia.
 
@@ -16,4 +18,4 @@ using Reactive
 ```
 
 * **[Tutorial and API documentation](http://juliagizmos.github.io/Reactive.jl)**
-* [**Issues**](https://github.com/JuliaGizmos/Reactive.jl/issues/new)
+* [**Issues**](https://github.com/jonniedie/Reactive.jl/issues/new)
